@@ -1,0 +1,7 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: chat-app
+  labels:
+    name: chat-app
+    
